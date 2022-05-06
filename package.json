@@ -9,6 +9,7 @@
   "author": "Christian DM",
   "license": "ISC",
   "dependencies": {
+    "@prisma/client": "^3.13.0",
     "express": "^4.18.1",
     "jest": "^26.0.0"
   },
