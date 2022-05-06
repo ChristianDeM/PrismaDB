@@ -9,7 +9,8 @@
   "author": "Christian DM",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "jest": "^26.0.0"
   },
   "devDependencies": {
     "prisma": "^3.13.0"
